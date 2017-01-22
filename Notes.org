@@ -1,0 +1,24 @@
+* Sources
+
+- http://www.nature.com/nrg/journal/v16/n6/abs/nrg3920.html
+- http://www.springer.com/?SGWID=5-102-45-139696-p35028635
+- https://www.quora.com/How-important-is-machine-learning-for-bioinformatics
+- https://www.quora.com/What-are-some-applications-of-machine-learning-in-Bioinformatics-and-computational-biology
+
+* Lectures
+
+- General introduction
+  - What is machine learning
+  - History
+  - Classic example
+  - Important concepts
+  - Toolkits
+    - Scikit-learn
+    - Tensor flow
+    - OpenCV
+
+- Hidden-Markov-Moddels
+- Neural networks
+- SVM
+- Deep Learning
+
