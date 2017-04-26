@@ -1,3 +1,6 @@
-#+TITLE: Lecture - Machine Learning in Bioinformatics
+#+TITLE: Course "Machine Learning in Bioinformatics" (Summer semester 2017)
 #+AUTHOR: Konrad U. Förstner
 
+This is a collection of all materials of the course "Machine Learning
+in Bioinformatics". The material will be successively added during
+semester.
