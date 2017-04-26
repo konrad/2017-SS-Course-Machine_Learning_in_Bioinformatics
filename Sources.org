@@ -1,0 +1,13 @@
+#+TITLE: Sources
+
+** Books
+- [[https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition][Building Machine Learning Systems with Python]], Willi Richert, Luis
+  Pedro Coelho, ISBN 978-1-78216-140-0
+- [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
+  Scientists]], Andreas C. Müller, Sarah Guido, O'Reilly Media, 2016,
+  ISBN-13: 978-1449369415
+- [[https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python][Learning scikit-learn: Machine Learning in Python]], Raúl Garreta,
+  Guillermo Moncecchi, ISBN 978-1783281930
+
+** Publications in scientific journals
+- 
