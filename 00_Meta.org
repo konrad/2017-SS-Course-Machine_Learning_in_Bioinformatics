@@ -1,0 +1,65 @@
+#+TITLE: 00 - Meta
+
+** What is machine learning an why should I learn about it?
+
+- Big data also hits biology
+- Examples: Promoter searches
+- Deep Learning
+- AI
+
+** Aim of the course
+- Given an overview of commonly used machine learning approaches
+- Show selected examples where they are applied in bioinformatics to
+  answer biological questions
+- Enable to apply machine learning approaches practically
+
+** Contact 
+Konrad Förstner - konrad.foerstner@uni-wuerzburg.de
+
+** Etherpad
+There is an etherpad in the WueCampus2 course page where questions,
+links and feedback can stored.
+
+** Participants survey 1
+- In which semester are you?
+- Biology / Computer Science?
+- General programming skill level from 0 (none) - 10 (hacker star) 
+- Programming skills Python from 0 (none) - 10 (hacker star)
+- Would be a basic introduction be necessary?
+
+** Time
+- Thursdays 15:00 (s. t.) - 16:45
+- Would a biweekly (15:00 to 16:30) be possible/wanted?
+
+** Class assessment
+- The type of the assessment depends on the number of
+  participants. The options:
+  1) Presentation of a publication and/or data analysis with presentation ca. (10 - 15 min)
+  2) written exam
+
+- Will decided until the second class
+
+** Course material
+- All material will be made available as [[https://en.wikipedia.org/wiki/Open_educational_resources][Open Educational Resources]] on
+  [[https://github.com/konrad/2017-SS-Course-Machine_Learning_in_Bioinformatics/blob/master/Sources.org][GitHub]] and also put into WueCampus2
+- The repository will be updated during the semester
+
+** Further reading / literature list / videos
+- There is not one single book or article that covers everything
+- A list of recommended source can be found here: [[file:Sources.org][Sources.org]]
+
+** Bring your own device (BYOD) vs. using the computer of the CIP pool
+- Is it possible for everybody to bring a laptop or should we use the
+  computers of the CIP pool?
+
+** Software installation
+- Not immediately necessary - practical part will start after the 3rd class
+- [[https://docs.continuum.io/][Anaconda]] 
+- [[https://jupyter.org/][Jupyter Notebook]]
+
+** Feedback
+- This is the first instance of the course => feedback is highly appreciated
+- evaluations sheets at mid-term and the end of the course
+
+** Short Demo of Jupyter Notebook
+
