@@ -15,3 +15,12 @@
   and genomics. Nat Rev Genet. 2015 Jun;16(6):321-32,
   https://dx.doi.org/10.1038/nrg3920,
   ([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204302/][Free version on PubMedCentral]])
+
+- Yip KY, Cheng C, Gerstein M. Machine learning and genome annotation:
+  a match meant to be? Genome Biol. 2013 May
+  29;14(5):205. https://dx.doi.org/10.1186/gb-2013-14-5-205.
+
+- Angermueller C, Pärnamaa T, Parts L, Stegle O. Deep learning for
+  computational biology. Mol Syst Biol. 2016 Jul
+  29;12(7):878. https://dx.doi.org/10.15252/msb.20156651 PMCID:
+  PMC4965871.
