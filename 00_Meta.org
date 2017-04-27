@@ -19,7 +19,7 @@ Angermueller et al., 2016, Molecular Systems Biology, https://dx.doi.org/10.1525
 
 ** We will cover all three types of machine learning in this course
 
-1) Supvervised learning (Support Vector Machines, Decision Trees, etc.)
+1) Supervised learning (Support Vector Machines, Decision Trees, etc.)
 2) Unsupervised learning (Clustering etc.)
 3) Reinforcement learning (Neural Networks, Baysian Networks etc.)
 
