@@ -4,3 +4,10 @@
 This is a collection of all materials of the course "Machine Learning
 in Bioinformatics". The material will be successively added during
 semester.
+
+
+The content is generate as [[http://orgmode.org/][org-mode]] files an then exported into
+different formats. 
+
+The course material is licensed under a [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution
+4.0 International (CC BY 4.0)]].
