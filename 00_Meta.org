@@ -2,36 +2,47 @@
 
 ** What is machine learning an why should I learn about it?
 
-- Big data also hits biology
-- Examples: Promoter searches
-- Deep Learning
-- AI
+- Machine learning (ML) is widely and increasingly used in today's life
+- ML has a long history in bioinformatics - e.g. Hidden-Markov-Models
+  are used since the 1980s to detect pattern in sequence data
+- Meanwhile "big data" also hits biology
 
-** Applications
+** Rapidly increasing amount of data in biology e.g. due to high-throuput sequencing
+
+[[./images/Cost_per_Genome.png]]
+
+** There are numerous applications in biology
 
 #+CAPTION: Angermueller et al., 2016, Molecular Systems Biology
 [[./images/Angermueller_et_al_2016_Fig_1.jpg]]
 Angermueller et al., 2016, Molecular Systems Biology, https://dx.doi.org/10.15252/msb.20156651
 
+** We will cover all three types of machine learning in this course
+
+1) Supvervised learning (Support Vector Machines, Decision Trees, etc.)
+2) Unsupervised learning (Clustering etc.)
+3) Reinforcement learning (Neural Networks, Baysian Networks etc.)
+
 ** Aim of the course
-- Given an overview of commonly used machine learning approaches
+- Equip you with an overview of commonly used machine learning
+  approaches
 - Show selected examples where they are applied in bioinformatics to
   answer biological questions
-- Enable to apply machine learning approaches practically
+- Enable you to apply machine learning approaches practically
 
 ** Contact 
 Konrad Förstner - konrad.foerstner@uni-wuerzburg.de
 
 ** Etherpad
 There is an etherpad in the WueCampus2 course page where questions,
-links and feedback can stored.
+links and feedback can be placed
 
-** Participants survey 1
+** Participants survey
 - In which semester are you?
 - Biology / Computer Science?
 - General programming skill level from 0 (none) - 10 (hacker star) 
 - Programming skills Python from 0 (none) - 10 (hacker star)
-- Would be a basic introduction be necessary?
+- Would be a basic programming introduction be necessary?
 
 ** Time
 - Thursdays 15:00 (s. t.) - 16:45
@@ -41,7 +52,7 @@ links and feedback can stored.
 - The type of the assessment depends on the number of
   participants. The options:
   1) Presentation of a publication and/or data analysis with presentation ca. (10 - 15 min)
-  2) written exam
+  2) Written exam
 
 - Will be decided until the second class
 
