@@ -1,4 +1,4 @@
-#+TITLE: 00 - Meta
+#+TITLE: Meta - Machine Learning in Bioinformatics
 
 ** What is machine learning an why should I learn about it?
 
@@ -6,6 +6,11 @@
 - Examples: Promoter searches
 - Deep Learning
 - AI
+
+** Applications
+
+#+CAPTION:
+[[./images/Angermueller_et_al_2016_Fig_1.jpg]]
 
 ** Aim of the course
 - Given an overview of commonly used machine learning approaches
