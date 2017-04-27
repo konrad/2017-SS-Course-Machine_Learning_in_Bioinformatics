@@ -9,7 +9,7 @@
 
 ** Applications
 
-#+CAPTION:
+#+CAPTION: Angermueller et al., 2016, Molecular Systems Biology
 [[./images/Angermueller_et_al_2016_Fig_1.jpg]]
 
 ** Aim of the course
