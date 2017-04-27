@@ -37,11 +37,11 @@ links and feedback can stored.
   1) Presentation of a publication and/or data analysis with presentation ca. (10 - 15 min)
   2) written exam
 
-- Will decided until the second class
+- Will be decided until the second class
 
 ** Course material
 - All material will be made available as [[https://en.wikipedia.org/wiki/Open_educational_resources][Open Educational Resources]] on
-  [[https://github.com/konrad/2017-SS-Course-Machine_Learning_in_Bioinformatics/blob/master/Sources.org][GitHub]] and also put into WueCampus2
+  [[https://github.com/konrad/2017-SS-Course-Machine_Learning_in_Bioinformatics/][GitHub]] and also put into WueCampus2
 - The repository will be updated during the semester
 
 ** Further reading / literature list / videos
@@ -54,12 +54,13 @@ links and feedback can stored.
 
 ** Software installation
 - Not immediately necessary - practical part will start after the 3rd class
-- [[https://docs.continuum.io/][Anaconda]] 
-- [[https://jupyter.org/][Jupyter Notebook]]
+- We will use [[http://python.org/][Python]] and do our exercises/analyses in [[https://jupyter.org/][Jupyter
+  Notebook]]. The easiers way to install all requirement is via
+  [[https://docs.continuum.io/][Anaconda]].
 
 ** Feedback
-- This is the first instance of the course => feedback is highly appreciated
-- evaluations sheets at mid-term and the end of the course
-
+- This is the first instance of the course - feedback is highly appreciated
+- Evaluations sheets at mid-term and the end of the course
+ 
 ** Short Demo of Jupyter Notebook
 
