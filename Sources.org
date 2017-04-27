@@ -10,4 +10,8 @@
   Guillermo Moncecchi, ISBN 978-1783281930
 
 ** Publications in scientific journals
-- 
+
+- Libbrecht MW, Noble WS. Machine learning applications in genetics
+  and genomics. Nat Rev Genet. 2015 Jun;16(6):321-32,
+  https://dx.doi.org/10.1038/nrg3920,
+  ([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204302/][Free version on PubMedCentral]])
