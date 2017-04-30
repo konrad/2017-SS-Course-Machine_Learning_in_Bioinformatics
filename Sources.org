@@ -3,11 +3,17 @@
 ** Books
 - [[https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition][Building Machine Learning Systems with Python]], Willi Richert, Luis
   Pedro Coelho, ISBN 978-1-78216-140-0
+
 - [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
   Scientists]], Andreas C. Müller, Sarah Guido, O'Reilly Media, 2016,
   ISBN-13: 978-1449369415
+
 - [[https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python][Learning scikit-learn: Machine Learning in Python]], Raúl Garreta,
   Guillermo Moncecchi, ISBN 978-1783281930
+
+- [[https://mitpress.mit.edu/books/bioinformatics][Bioinformatics - The Machine Learning Approach]], Pierre Baldi and
+  Søren Brunak, 2001, ISBN 978-0262025065
+
 
 ** Publications in scientific journals
 
@@ -29,3 +35,7 @@
   a match meant to be? Genome Biol. 2013 May
   29;14(5):205. https://dx.doi.org/10.1186/gb-2013-14-5-205.
 
+- Michael K. K. Leung, Andrew Delong, Babak Alipanahi, Brendan
+  J. Frey, Machine Learning in Genomic Medicine: A Review of
+  Computational Problems and Data Sets, Proceedings of the IEEE, 2015,
+  December https://dx.doi.org/10.1109/JPROC.2015.2494198,
