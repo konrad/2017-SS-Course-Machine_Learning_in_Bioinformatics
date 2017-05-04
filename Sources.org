@@ -1,5 +1,10 @@
 #+TITLE: Sources
 
+** Websites
+
+*** Three types of machine learning
+- http://www.dummies.com/programming/big-data/data-science/3-types-machine-learning/
+
 ** Books
 - [[https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition][Building Machine Learning Systems with Python]], Willi Richert, Luis
   Pedro Coelho, ISBN 978-1-78216-140-0
@@ -42,3 +47,7 @@
   J. Frey, Machine Learning in Genomic Medicine: A Review of
   Computational Problems and Data Sets, Proceedings of the IEEE, 2015,
   December https://doi.org/10.1109/JPROC.2015.2494198,
+
+- Tarca AL, Carey VJ, Chen XW, Romero R, Drăghici S. Machine learning
+  and its applications to biology. PLoS Comput Biol. 2007
+  Jun;3(6):e116, https://doi.org/10.1371/journal.pcbi.0030116
