@@ -19,12 +19,12 @@
 
 - Angermueller C, Pärnamaa T, Parts L, Stegle O. Deep learning for
   computational biology. Mol Syst Biol. 2016 Jul
-  29;12(7):878. https://dx.doi.org/10.15252/msb.20156651 PMCID:
+  29;12(7):878. https://doi.org/10.15252/msb.20156651 PMCID:
   PMC4965871.
 
 - Libbrecht MW, Noble WS. Machine learning applications in genetics
   and genomics. Nat Rev Genet. 2015 Jun;16(6):321-32,
-  https://dx.doi.org/10.1038/nrg3920,
+  https://doi.org/10.1038/nrg3920,
   ([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204302/][Free version on PubMedCentral]])
 
 - Min S, Lee B, Yoon S. Deep learning in bioinformatics. Brief
@@ -33,9 +33,9 @@
 
 - Yip KY, Cheng C, Gerstein M. Machine learning and genome annotation:
   a match meant to be? Genome Biol. 2013 May
-  29;14(5):205. https://dx.doi.org/10.1186/gb-2013-14-5-205.
+  29;14(5):205. https://doi.org/10.1186/gb-2013-14-5-205.
 
 - Michael K. K. Leung, Andrew Delong, Babak Alipanahi, Brendan
   J. Frey, Machine Learning in Genomic Medicine: A Review of
   Computational Problems and Data Sets, Proceedings of the IEEE, 2015,
-  December https://dx.doi.org/10.1109/JPROC.2015.2494198,
+  December https://doi.org/10.1109/JPROC.2015.2494198,
