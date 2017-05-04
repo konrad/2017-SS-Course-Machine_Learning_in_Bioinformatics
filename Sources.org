@@ -14,6 +14,9 @@
 - [[https://mitpress.mit.edu/books/bioinformatics][Bioinformatics - The Machine Learning Approach]], Pierre Baldi and
   Søren Brunak, 2001, ISBN 978-0262025065
 
+- [[https://www.springer.com/de/book/9780387848570][The Elements of Statistical Learning: Data Mining, Inference, and
+  Prediction]], Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2009,
+  ISBN 978-0-387-84858-7,  [[https://statweb.stanford.edu/~tibs/ElemStatLearn/][Complete book online]]
 
 ** Publications in scientific journals
 
