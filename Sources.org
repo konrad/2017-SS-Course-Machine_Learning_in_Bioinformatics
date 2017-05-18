@@ -5,6 +5,10 @@
 *** Three types of machine learning
 - http://www.dummies.com/programming/big-data/data-science/3-types-machine-learning/
 
+*** Support Vector Machines
+
+- [[https://www.svm-tutorial.com/][SVM Tutorial]]
+
 ** Books
 - [[https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition][Building Machine Learning Systems with Python]], Willi Richert, Luis
   Pedro Coelho, ISBN 978-1-78216-140-0
@@ -24,6 +28,8 @@
   ISBN 978-0-387-84858-7,  [[https://statweb.stanford.edu/~tibs/ElemStatLearn/][Complete book online]]
 
 ** Publications in scientific journals
+
+*** General overview
 
 - Angermueller C, Pärnamaa T, Parts L, Stegle O. Deep learning for
   computational biology. Mol Syst Biol. 2016 Jul
@@ -51,3 +57,30 @@
 - Tarca AL, Carey VJ, Chen XW, Romero R, Drăghici S. Machine learning
   and its applications to biology. PLoS Comput Biol. 2007
   Jun;3(6):e116, https://doi.org/10.1371/journal.pcbi.0030116
+
+- [[http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html][Nature Biotechnology - Computational Biology Primers]]
+
+*** Support Vector Machines
+
+- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
+  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
+
+- Overview of random forest methodology and practical guidance with
+  emphasis on computational biology and bioinformatics
+  https://doi.org/10.1002/widm.1072
+
+*** Random forest
+
+- Kingsford C, Salzberg SL. What are decision trees? Nat
+  Biotechnol. 2008
+  Sep;26(9):1011-3. https://doi.org/10.1038/nbt0908-1011
+
+- Touw WG, Bayjanov JR, Overmars L, Backus L, Boekhorst J, Wels M, van
+  Hijum SA. Data mining in the Life Sciences with Random Forest: a
+  walk in the park or lost in the jungle? Brief Bioinform. 2013
+  May;14(3):315-26. doi: https://doi.org/10.1093/bib/bbs034
+
+*** HMM
+
+*** PCA
+
